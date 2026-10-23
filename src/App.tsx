@@ -479,7 +479,7 @@ export default function App() {
                 </div>
 
                 <h1 className="text-3xl sm:text-4xl lg:text-[42px] font-extrabold text-[#0B3B2E] font-heading leading-tight tracking-tight mb-4 text-balance">
-                  Des environnements propres, sains et bien entretenus.
+                  Environnement propre, sains et bien entretenu.
                 </h1>
 
                 <p className="text-sm sm:text-base text-[#52635B] leading-relaxed mb-7 max-w-xl">

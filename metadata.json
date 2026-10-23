@@ -1,0 +1,6 @@
+{
+  "name": "G.E.H.S. — Hygiène & Services",
+  "description": "Site officiel de G.E.H.S. : hygiène, nettoyage industriel, lutte anti-vectorielle, espaces verts, maintenance technique et location de matériel à Port-Gentil et sur tout le Gabon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
